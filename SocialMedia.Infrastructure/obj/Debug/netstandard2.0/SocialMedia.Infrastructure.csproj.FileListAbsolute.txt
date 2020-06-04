@@ -9,4 +9,3 @@ C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Infrastructure\o
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
-C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
