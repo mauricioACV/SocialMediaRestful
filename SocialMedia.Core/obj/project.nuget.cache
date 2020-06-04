@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9NBf2UHGKbUPZPhApSG1zKcr2Vfoyh49QukKEFaUcxmUuiKC5JuLsHN2/5sy/pmZ6wpp1YzLfppRmyc5DX3CrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
