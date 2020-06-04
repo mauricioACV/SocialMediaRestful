@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using SocialMedia.Core.DTOs;
 using SocialMedia.Core.Entities;
 using SocialMedia.Core.Interfaces;
+using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -21,17 +23,11 @@ namespace SocialMedia.Api.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetPost()
+        public async Task<IActionResult> GetPosts()
         {
-            var post = await _postRepository.GetPosts();
-            var postsDto = post.Select(x => new PostDto
-            {
-                PostId = x.PostId,
-                Date = x.Date,
-                Description = x.Description,
-                Image = x.Image,
-                UserId = x.UserId
-            });
+            var posts = await _postRepository.GetPosts();
+            var postsDto = _mapper.Map<IEnumerable<PostDto>>(posts);
+
             return Ok(postsDto);
         }
 
@@ -39,27 +35,16 @@ namespace SocialMedia.Api.Controllers
         public async Task<IActionResult> GetPos(int id)
         {
             var post = await _postRepository.GetPost(id);
-            var postDto=new PostDto
-            {
-                PostId = post.PostId,
-                Date = post.Date,
-                Description = post.Description,
-                Image = post.Image,
-                UserId = post.UserId
-            };
+            var postDto = _mapper.Map<IEnumerable<PostDto>>(post);
+
             return Ok(postDto);
         }
 
         [HttpPost]
         public async Task<IActionResult> Post(PostDto postDto)
         {
-            var post = new Post
-            {
-                Date = postDto.Date,
-                Description = postDto.Description,
-                Image = postDto.Image,
-                UserId = postDto.UserId
-            };
+            var post = _mapper.Map<Post>(postDto);
+
             await _postRepository.InsertPost(post);
             return Ok(post);
         }
