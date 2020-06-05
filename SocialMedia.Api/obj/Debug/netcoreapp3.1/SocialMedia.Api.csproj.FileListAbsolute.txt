@@ -54,5 +54,15 @@ C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\ne
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CoreCompileInputs.cache
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
