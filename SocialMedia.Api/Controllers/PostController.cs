@@ -36,7 +36,7 @@ namespace SocialMedia.Api.Controllers
         }
 
         [HttpGet ("{id}")]
-        public async Task<IActionResult> GetPos(int id)
+        public async Task<IActionResult> GetPost(int id)
         {
             var post = await _postService.GetPost(id);
             var postDto = _mapper.Map<PostDto>(post);
