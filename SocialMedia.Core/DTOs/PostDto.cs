@@ -4,6 +4,9 @@ namespace SocialMedia.Core.DTOs
 {
     public class PostDto
     {
+        /// <summary>
+        /// Id autogenerada para entidad Post
+        /// </summary>
         public int Id { get; set; }
         public int UserId { get; set; }
         public DateTime? Date { get; set; }
