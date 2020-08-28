@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {}
+    "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {
+    "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
         "projectName": "SocialMedia.UnitTests",
-        "projectPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\MauricioACV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\obj\\",
+        "projectPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MauricioACV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,18 +68,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

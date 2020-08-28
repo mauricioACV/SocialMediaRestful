@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\SocialMedia.Api.csproj": {}
+    "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\SocialMedia.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\SocialMedia.Api.csproj": {
+    "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\SocialMedia.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\SocialMedia.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\SocialMedia.Api.csproj",
         "projectName": "SocialMedia.Api",
-        "projectPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\SocialMedia.Api.csproj",
-        "packagesPath": "C:\\Users\\MauricioACV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\obj\\",
+        "projectPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\SocialMedia.Api.csproj",
+        "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MauricioACV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj"
               },
-              "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
+              "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
               }
             }
           }
@@ -81,12 +81,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -95,24 +89,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+    "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
-        "projectPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj",
-        "packagesPath": "C:\\Users\\MauricioACV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\obj\\",
+        "projectPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MauricioACV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,24 +151,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+    "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
         "projectName": "SocialMedia.Infrastructure",
-        "projectPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\MauricioACV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MauricioACV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -187,8 +181,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "C:\\Users\\MauricioACV\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\Mauricio\\source\\repos\\SocialMedaRestFul\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
@@ -245,7 +239,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

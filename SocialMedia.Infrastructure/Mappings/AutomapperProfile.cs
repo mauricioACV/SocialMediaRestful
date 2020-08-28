@@ -1,9 +1,6 @@
 ﻿using AutoMapper;
 using SocialMedia.Core.DTOs;
 using SocialMedia.Core.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SocialMedia.Infrastructure.Mappings
 {
@@ -11,8 +8,12 @@ namespace SocialMedia.Infrastructure.Mappings
     {
         public AutomapperProfile()
         {
+            //una forma de pasar de uno a otro
             CreateMap<Post, PostDto>();
             CreateMap<PostDto, Post>();
+
+            //otra forma de pasar de uno a otro
+            CreateMap<SecurityDto, Security>().ReverseMap();
         }
     }
 }

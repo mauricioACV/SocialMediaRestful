@@ -79,3 +79,4 @@ C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\ne
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CoreCompileInputs.cache
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Debug\netcoreapp3.1\web.config

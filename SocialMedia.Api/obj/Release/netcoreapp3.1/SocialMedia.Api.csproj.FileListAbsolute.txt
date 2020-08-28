@@ -66,3 +66,17 @@ C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Release\
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Release\netcoreapp3.1\SocialMedia.Api.dll
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Release\netcoreapp3.1\SocialMedia.Api.pdb
 C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Release\netcoreapp3.1\SocialMedia.Api.genruntimeconfig.cache
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\web.config
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\SocialMedia.Api.xml
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MauricioACV\source\repos\SocialMedaRestFul\SocialMedia.Api\obj\Release\netcoreapp3.1\SocialMedia.Api.xml
